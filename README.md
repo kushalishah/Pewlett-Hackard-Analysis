@@ -8,8 +8,8 @@ I created group files that had some of the infomation that the manger disired (r
 
 The total amount of employees that can retire is 33,118 but only a total of 2,382 are eligible for the mentorship program. The next thing I would do is make a data table with the count of retiring employees by titles to be able to see how many recruits he would need in each department. I would also do it for the employees that qualify for the mentorship program to be able to see how many puplies each mentor would need to take on.
 
-![Employee DB](images/EmployeeDB.png)
-![Employee table](images/Employee_table.png)
+![Employee DB](Images/EmployeeDB.png)
+![Employee table](Images/Employee_table.png)
 
 
 ### Results: Analysis
@@ -18,7 +18,7 @@ The total amount of employees that can retire is 33,118 but only a total of 2,38
 
 Number of individuals retiring: 90,398
 
-![](num_mentors.png)
+![mentors](Images/num_mentors.png)
 
 **Recommendation**
 
@@ -32,16 +32,16 @@ According to the data
 **Table with retiring employees (I created a table containing the number of employees who are about to retire: those born 1952-1955)**
 
 
-![](about_retire.png)
+![retire](Images/about_retire.png)
 
 **No duplicates**
 
-![](filter_duplicate.png)
+![duplicates](Images/filter_duplicate.png)
 
 ### Analysis 2
 
 **Mentor employees will need to have a date of birth that falls between January 1, 1965 and December 31, 1965**
 
-![](eligible_mentors.png)
+![eligible mentor](Images/eligible_mentors.png)
 
 Total number of eligible mentors are 1549. 
