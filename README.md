@@ -8,8 +8,8 @@ I created group files that had some of the infomation that the manger disired (r
 
 The total amount of employees that can retire is 33,118 but only a total of 2,382 are eligible for the mentorship program. The next thing I would do is make a data table with the count of retiring employees by titles to be able to see how many recruits he would need in each department. I would also do it for the employees that qualify for the mentorship program to be able to see how many puplies each mentor would need to take on.
 
-![](EmployeeDB.png)
-![](Employee_table.png)
+![images](EmployeeDB.png)
+![images](Employee_table.png)
 
 
 ### Results: Analysis
